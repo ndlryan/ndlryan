@@ -1,8 +1,9 @@
-# 👋Long Nguyen (Ryan)
+# 🧑‍💻 Long Nguyen (Ryan)
 
 **`Data Analytics Engineer (SQL/Python/Linux)`**
 
-💡 Learning ..... Seaching......for job opportunities
+🌱 I'm currently **learning and improving my skills** in **SQL, Python, Linux, and data analytics**, with the goal of advancing my career as a **Data Analytics Engineer**.  
+💻 I’m also **open to job opportunities, collaborations, and freelance projects** to grow and apply my expertise.
 
 ---
 
