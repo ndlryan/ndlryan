@@ -51,6 +51,12 @@
 
 ---
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1dYo2qgX4L06VKWDetVo_lclydw9hmGfC/view?usp=drive_link)
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longnguyen3110/)  
