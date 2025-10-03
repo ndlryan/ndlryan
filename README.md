@@ -1,14 +1,51 @@
-## Hi there 👋
+# 👋Long Nguyen (Ryan)
 
-**ndlryan/ndlryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analytics Engineer (SQL/Python/Linux)`**
 
-Here are some ideas to get you started:
+💡 Learning ..... Seaching......for job opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 What I Do
+- 🔎 **Current focus:** Analytics Engineering, Python projects, SQL, and building data pipelines  
+- 🐘 **Side interests:** PostgreSQL, Linux environments, automation  
+- 🤝 **Open to:** Collaboration, freelance work, or job opportunities  
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages & Databases:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Environments:**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 📌 Highlighted Projects
+
+- [TMDB Movie Analysis](https://github.com/ndlryan/Linux-Project1) — **Linux Bash** for data cleaning basics  
+- [API Data Crawling](https://github.com/ndlryan/Python-Project2) — **Python** script to crawl 200K records  
+- [API Data with Postgres](https://github.com/ndlryan/Python-Lab) — **Python + PostgreSQL** pipeline  
+- [TMDB Movie Deep Clean & Analysis](https://github.com/ndlryan/Python-Project3) — **Python + Pandas** for deep cleaning & analytics  
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced SQL queries & optimization  
+- Async Python (aiohttp, asyncio)  
+- PostgreSQL database administration  
+- Linux shell scripting and automation  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longnguyen3110/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duclong3110@gmail.com)
