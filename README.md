@@ -40,7 +40,7 @@
 ## 🎯 Currently Learning
 
 - Advanced SQL queries & optimization  
-- Async Python (aiohttp, asyncio)  
+- Advanced Python
 - PostgreSQL database administration  
 - Linux shell scripting and automation  
 
