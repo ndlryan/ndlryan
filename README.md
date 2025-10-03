@@ -46,6 +46,11 @@
 
 ---
 
+## 🏅 Certifications
+[![Coursera](https://img.shields.io/badge/-Google%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Z4LYA6STTBXW)
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longnguyen3110/)  
