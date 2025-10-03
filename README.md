@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Long%20Nguyen-(Ryan)-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Banner" />
+</p>
+
 # 🧑‍💻 Long Nguyen (Ryan)
 
 **`Data Analytics Engineer (SQL/Python/Linux)`**
@@ -17,14 +22,14 @@
 ## 🛠️ Tech & Tools
 
 **Languages & Databases:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=black) 
+![SQL](https://img.shields.io/badge/-SQL-3178C6?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Tools & Environments:**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white) 
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 
 ---
 
