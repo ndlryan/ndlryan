@@ -52,7 +52,9 @@
 ---
 
 ## 🏅 Certifications
-[![Coursera](https://img.shields.io/badge/-Google%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Z4LYA6STTBXW)
+
+[![Coursera](https://img.shields.io/badge/-Google%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Z4LYA6STTBXW)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/07b32d878ce9?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
 
 ---
 
