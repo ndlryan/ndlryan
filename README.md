@@ -53,9 +53,7 @@
 
 ## 🏅 Certifications
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/07b32d878ce9?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
-[![Coursera](https://img.shields.io/badge/-Google%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Z4LYA6STTBXW)  
-[![TOEIC](https://img.shields.io/badge/-TOEIC-0073CF?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1YvHT2U4yLlOYI4i-SWB8IP0yHxK9ulle/view?usp=drive_link)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/07b32d878ce9?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate) [![Coursera](https://img.shields.io/badge/-Google%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/Z4LYA6STTBXW) [![TOEIC](https://img.shields.io/badge/-TOEIC-0073CF?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1YvHT2U4yLlOYI4i-SWB8IP0yHxK9ulle/view?usp=drive_link) 
 
 ---
 
@@ -67,5 +65,5 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longnguyen3110/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duclong3110@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duclong3110@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/longnguyen3110/)  
+
