@@ -35,10 +35,11 @@
 
 ## 📌 Highlighted Projects
 
-- [TMDB Movie Analysis](https://github.com/ndlryan/Linux-Project1) — **Linux Bash** for data cleaning basics  
-- [API Data Crawling](https://github.com/ndlryan/Python-Project2) — **Python** script to crawl 200K records  
-- [API Data with Postgres](https://github.com/ndlryan/Python-Lab) — **Python + PostgreSQL** pipeline  
-- [TMDB Movie Deep Clean & Analysis](https://github.com/ndlryan/Python-Project3) — **Python + Pandas** for deep cleaning & analytics  
+- [Advanced Analysis for Beemovies](https://github.com/ndlryan/AdvanceSQL-Analysis-for-Beemovies) — **Advanced SQL + PostgreSQL**
+- [TMDB Movie Deep Clean & Analysis](https://github.com/ndlryan/TMDB-Movie-Deep-Clean-Analysis) — **Python + Pandas** for deep cleaning & analytics  
+- [API Data with Postgres](https://github.com/ndlryan/API-Data-with-Postgres) — **Python + PostgreSQL** pipeline
+- [API Data Crawling](https://github.com/ndlryan/API-Data-Crawling) — **Python** script to crawl 200K records
+- [TMDB Movie Analysis](https://github.com/ndlryan/TMDB-Movie-Analysis) — **Linux Bash** for data cleaning basics  
 
 ---
 
