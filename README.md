@@ -46,6 +46,7 @@
 
 ## 🎯 Currently Learning
 
+- GCP data pipeline
 - Advanced SQL queries & optimization  
 - Advanced Python
 - PostgreSQL database administration  
@@ -61,7 +62,7 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1dYo2qgX4L06VKWDetVo_lclydw9hmGfC/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/11pIadvZl4XyiloeTrlGN8EgEaL_odM7D/view?usp=drive_link)
 
 ---
 
