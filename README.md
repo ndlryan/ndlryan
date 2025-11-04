@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 What I Do
-- 🔎 **Current focus:** Analytics Engineering, Python projects, SQL, and building data pipelines  
+- 🔎 **Current focus:** Analytics Engineering, Python projects, SQL, building data pipelines and cloud servies.
 - 🐘 **Side interests:** PostgreSQL, Linux environments, automation  
 - 🤝 **Open to:** Collaboration, freelance work, or job opportunities  
 
