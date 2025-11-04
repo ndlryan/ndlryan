@@ -7,14 +7,14 @@
 
 **`Data Analytics Engineer (SQL/Python/Linux)`**
 
-🌱 I'm currently **learning and improving my skills** in **SQL, Python, Linux, and data analytics**, with the goal of advancing my career as a **Data Analytics Engineer**.  
+🌱 I'm currently **learning and improving my skills** in **Cloud, SQL, Python, Linux, and data analytics**, with the goal of advancing my career as a **Data Analytics Engineer**.  
 💻 I’m also **open to job opportunities, collaborations, and freelance projects** to grow and apply my expertise.
 
 ---
 
 ## 🚀 What I Do
 - 🔎 **Current focus:** Analytics Engineering, Python projects, SQL, building data pipelines and cloud servies.
-- 🐘 **Side interests:** PostgreSQL, Linux environments, automation  
+- 🐘 **Side interests:** GCP, PostgreSQL, Linux environments, automation  
 - 🤝 **Open to:** Collaboration, freelance work, or job opportunities  
 
 ---
